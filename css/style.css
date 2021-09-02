@@ -1,0 +1,18 @@
+/* Custom CSS for Archive Landing */
+
+/* Body Background  */
+.base-color {
+    background-color: #fffff1;
+}
+
+/* shadow for book cards */
+.book-shadow {
+    border: none;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+/* fun gradinet in spinner */
+.spinner-gradient {
+    background: linear-gradient(90deg, rgba(220,53,69,1) 0%, rgba(255,193,7,0.9976365546218487) 100%);
+}
